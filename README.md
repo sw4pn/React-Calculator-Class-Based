@@ -1,1 +1,1 @@
-React + TailwindCss + TypeScript Starter
+React Calculator with Class Based Components 
